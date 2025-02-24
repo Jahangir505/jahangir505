@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad! 👋
+# Hi there, I'm Jahangir! 👋
 
 🚀 **Full-Stack Developer | WordPress Expert | DevOps Enthusiast**
 
@@ -23,7 +23,7 @@ I’m a passionate **Full-Stack Developer** with expertise in **React.js, Next.j
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-dev/)
-- 📝 [Portfolio](https://yourportfolio.com/) *(Replace with your actual link)*
+- 📝 [Portfolio](https://devjahangir.com/) *(Replace with your actual link)*
 - 🐦 [Twitter/X](https://twitter.com/muhammad_dev) *(Optional)*
 
 💡 Open to collaborations on exciting projects! Let’s build something amazing together. 🚀
