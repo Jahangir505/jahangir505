@@ -20,7 +20,6 @@ I’m a passionate **Full-Stack Developer** with expertise in **React.js, Next.j
 - 📈 Trading analysis tool using **Binance API** in Node.js
 - ⚙️ Learning & implementing **DevOps** best practices
 
-## 📫 Connect With Me
 
 ## 🚀 Language and Tools  
 <p align="center">
@@ -40,8 +39,8 @@ I’m a passionate **Full-Stack Developer** with expertise in **React.js, Next.j
 ---
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-dev/)
-- 📝 [Portfolio](https://devjahangir.com/) *(Replace with your actual link)*
-- 🐦 [Twitter/X](https://twitter.com/muhammad_dev) *(Optional)*
+- 📝 [Portfolio](https://devjahangir.com/) 
+- 🐦 [Twitter/X](https://twitter.com/jahangir505) 
 
 💡 Open to collaborations on exciting projects! Let’s build something amazing together. 🚀
 
